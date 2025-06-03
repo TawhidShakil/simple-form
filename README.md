@@ -16,7 +16,7 @@ This project is a beginner-friendly HTML/CSS/JavaScript application that demonst
 
 ## 🔗 Live Preview
 
-🌐 [Click here to view the live project on Vercel](simple-form-rosy.vercel.app)
+🌐 [Click here to view the live project on Vercel](https://simple-form-rosy.vercel.app/)
 
 
 ---
